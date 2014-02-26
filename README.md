@@ -2,7 +2,7 @@ videoDisp
 =========
 Discription:
 A laptop integrated camera video display program for entertainment
-Implemented by opencv2.4.
+Implemented by opencv2.4 c++.
 
 Function needs to implemented:
 1. Apply diffrent video display effects that can form various kinds of entertainment
